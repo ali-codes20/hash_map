@@ -1,1 +1,1 @@
-# hash_map
+In this programme, we'll simulate an array by creating a list in Python and keeping track of size of the list with an additional integer variabale. We'll create a class, HashMap with a constructor. Then define few functions within the class that codes our keys/inputs in our dataset, compress our hash codes using modulu arithmetic, assign an index to our key-value pair, retrieve our key-value pair. We'll use open addressing to avoid collision
